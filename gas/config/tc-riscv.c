@@ -1266,7 +1266,7 @@ riscv_ip (char *str, struct riscv_cl_insn *ip, expressionS *imm_expr,
 	      /* Successful assembly.  */
 	      error = NULL;
 	      goto out;
-
+      printf("checking~~");
 	    case 'C': /* RVC */
 	      switch (*++args)
 		{

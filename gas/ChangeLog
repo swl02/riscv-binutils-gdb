@@ -51,7 +51,7 @@
 
 2017-10-24  Andrew Waterman  <andrew@sifive.com>
 
-	* testsuite/gas/riscv/c-lui-fail.d: New testcase.
+	* testsuite/gas/riscv/c--fail.d: New testcase.
 	gas/testsuite/gas/riscv/c-lui-fail.l: Likewise.
 	gas/testsuite/gas/riscv/c-lui-fail.s: Likewise.
 	gas/testsuite/gas/riscv/riscv.exp: Likewise.
